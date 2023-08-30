@@ -1,0 +1,23 @@
+.container {
+  max-width: 1640px;
+  margin: 0 auto;
+}
+.block {
+  width: 200px;
+  height: 300px;
+}
+.menu {
+  max-width: 600px;
+  margin: 0 auto; 
+  display: flex;
+  justify-content: space-between;
+}
+.malumot {
+width: 400px;
+margin: 0 auto;
+text-align: center;
+}
+ .banner img {
+width: 200px;
+height: 200px;
+}
